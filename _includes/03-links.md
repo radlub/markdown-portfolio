@@ -1,1 +1,1 @@
-[Github] https://github.com/radlub
+[Github](https://github.com/radlub)
